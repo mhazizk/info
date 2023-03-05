@@ -11,7 +11,6 @@
 
 - Loving mobile development, native and cross-platform.
 
-
 ## Projects
 
 <table>
@@ -86,5 +85,6 @@
 ## Contact
 
 - [Twitter](https://twitter.com/mhazizk)
-- [Instagram](https://www.instagram.com/mhazizk/)
+- [Instagram](https://www.instagram.com/m.haziz.k/)
+- [Bento](https://bento.me/mhazizk)
 - [LinkedIn](https://www.linkedin.com/in/mhazizk/)
