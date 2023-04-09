@@ -35,10 +35,47 @@
     <tr>
         <td align="center">
             <img 
+                style="width: 100%;
+                    height:auto;"
+                src="https://raw.githubusercontent.com/mhazizk/pokechan/main/src/assets/pokechan_logo.png" 
+                alt="Pokechan logo"/>
+                <br/>
+            Pokechan
+        </td>
+        <td>
+            Simple web pokemon database client.
+            <br/>
+            View <a href ="https://github.com/mhazizk/pokechan">
+            Github
+            </a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    React.js
+                </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                   Web - <a href ="https://pokechan.vercel.app">
+                    Pokechan
+                </a>
+            </ol>
+        </td>
+        <td>
+            Active
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img 
                 style="width: 50%;
                     height:auto;"
                 src="https://raw.githubusercontent.com/mhazizk/juta-release-notes/main/src/assets/juta-app-icon.png" 
                 alt="Juta logo"/>
+                <br/>
             Juta
         </td>
         <td>
@@ -81,6 +118,12 @@
     </tr>
 
 </table>
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhazizk&show_icons=true&count_private=true&theme=light)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhazizk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
