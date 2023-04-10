@@ -1,7 +1,5 @@
 # Hello, world! 👋
 
-![](https://komarev.com/ghpvc/?username=mhazizk)
-
 ## About
 
 - Just a human being trying to learn new things.
@@ -121,9 +119,9 @@
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhazizk&show_icons=true&count_private=true&theme=light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhazizk&show_icons=true&count_private=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhazizk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhazizk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
@@ -131,3 +129,7 @@
 - [Instagram](https://www.instagram.com/m.haziz.k/)
 - [Bento](https://bento.me/mhazizk)
 - [LinkedIn](https://www.linkedin.com/in/mhazizk/)
+
+![](https://komarev.com/ghpvc/?username=mhazizk)
+
+<a href="https://www.buymeacoffee.com/mhazizk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
