@@ -30,35 +30,34 @@
             Status
         </th>
     </tr>
-    <tr>
+        <tr>
         <td align="center">
             <img 
                 style="width: 100%;
                     height:auto;"
-                src="https://raw.githubusercontent.com/mhazizk/pokechan/main/src/assets/pokechan_logo.png" 
-                alt="Pokechan logo"/>
+                src="https://camo.githubusercontent.com/c15c0df402f74cba1af69ada487250f2f6abf2aaf8250f45af6d0a245cc6fe61/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343838322e706e67" 
+                alt="Yelp logo"/>
                 <br/>
-            Pokechan
+            iYelp
         </td>
         <td>
-            Simple web pokemon database client.
+            Simple iOS Yelp client.
             <br/>
-            View <a href ="https://github.com/mhazizk/pokechan">
+            View <a href ="https://github.com/mhazizk/iyelp">
             Github
             </a>
         </td>
         <td>
             <ul>
                 <li>
-                    React.js
+                    SwiftUI
                 </li>
             </ul>
         </td>
         <td>
             <ul>
                 <li>
-                   Web - <a href ="https://pokechan.vercel.app">
-                    Pokechan
+                   iOS
                 </a>
             </ol>
         </td>
@@ -108,6 +107,42 @@
                 <li>
                     Web (Coming soon)
                 </li>
+            </ol>
+        </td>
+        <td>
+            Active
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img 
+                style="width: 100%;
+                    height:auto;"
+                src="https://raw.githubusercontent.com/mhazizk/pokechan/main/src/assets/pokechan_logo.png" 
+                alt="Pokechan logo"/>
+                <br/>
+            Pokechan
+        </td>
+        <td>
+            Simple web pokemon database client.
+            <br/>
+            View <a href ="https://github.com/mhazizk/pokechan">
+            Github
+            </a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    React.js
+                </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                   Web - <a href ="https://pokechan.vercel.app">
+                    Pokechan
+                </a>
             </ol>
         </td>
         <td>
