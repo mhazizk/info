@@ -158,6 +158,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhazizk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ## Contact
 
 - [Twitter](https://twitter.com/mhazizk)
